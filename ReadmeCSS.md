@@ -38,3 +38,9 @@ border -> borda da boxModel, ela tem três elementos, tamanho, estilo e cor. bor
 border: 3px solid blue
 border-radius: 10px
 ~~~
+font-family -> altera a fonte  
+font-size -> tamanho da fonte  
+font-style -> (negrito, itálico)  
+font-weight-> (peso da fonte)  
+text-transform -> (lower ou uppercase)  
+text-decoration-> (overline, underline)  
