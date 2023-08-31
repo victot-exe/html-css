@@ -44,3 +44,11 @@ font-style -> (negrito, itálico)
 font-weight-> (peso da fonte)  
 text-transform -> (lower ou uppercase)  
 text-decoration-> (overline, underline)  
+
+list-style-type -> para mudar o estilo da lista
+~~~
+list-style-type: square;
+list-style-type: upper-roman;
+list-style-type: "\1F44D";
+~~~
+list-style-image -> lista com imagem no icone
