@@ -11,7 +11,6 @@ Note que o ID só pode ser utilizado uma vez por página.
 ~~~
 .header {/*classe*/
     padding: 10px;
-
 }
 
 #header {/*ID*/
@@ -51,4 +50,8 @@ list-style-type: square;
 list-style-type: upper-roman;
 list-style-type: "\1F44D";
 ~~~
-list-style-image -> lista com imagem no icone
+list-style-image -> lista com imagem no icone  
+width -> largura (pode usar tamanho fixo ou porcentagem)  
+height -> altura  
+max-height -> altura maxima  
+text-align -> alinhar o texto
