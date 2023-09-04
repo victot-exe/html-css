@@ -8,7 +8,8 @@
 <aside> algo relacionado ao conteudo principal</aside>
 <footer>rodapé</footer>
 <h1>-<h6> títulos
-<script>tag para inserir o código em JS</script>
+<script>tag para inserir o código em JS</script> ou
+<script defer scr="caminho"><script> para não precicar declarar no final do body
 ~~~
 
 ## Textos e links
